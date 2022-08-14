@@ -6,5 +6,8 @@
 어떤식으로 자동화가 이루어지는지 알고싶어서 책, 유튜브를 찾아보며 개인적으로 공부해본 부분입니다.
 코드에 주석 달며 공부
 
+설치과정에서 kpi를 사용하는데 있어서 앱키와 앱시크릿키를 발급받았습니다.
+보안이 필요한 부분으로 인해 private으로 게시
+
 - [조코딩님 유튜브 참고] : (https://www.youtube.com/watch?v=2Hxfb5HT4kE)
 - [KIS developer api문서 참고] : (https://apiportal.koreainvestment.com/apiservice/apiservice-domestic-stock#L_aade4c72-5fb7-418a-9ff2-254b4d5f0ceb)
